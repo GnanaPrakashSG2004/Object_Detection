@@ -1,0 +1,7 @@
+path: /home2/punnavajhala.prakash/CV/CV_Assignment_3/data/q2/1
+train: images/train
+val: images/train
+
+nc: 1
+names:
+  0: duck
